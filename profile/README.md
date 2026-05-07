@@ -29,6 +29,8 @@
 
 ---
 
+![](cat.svg)
+
 <div align="center">
 
 **[→ Все репозитории](https://github.com/orgs/WhyNotLab/repositories)**
